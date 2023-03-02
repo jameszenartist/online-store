@@ -1,0 +1,11 @@
+
+
+.logo{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+}
+
+.logo h3{
+  margin: 0 0.5rem;
+}

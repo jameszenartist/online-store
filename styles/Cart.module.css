@@ -1,0 +1,13 @@
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+.card{
+  margin: 0.5rem 0;
+  width: 100%;
+  padding: 1rem;
+  border: 2px solid #004daa;
+}
