@@ -4,7 +4,6 @@ const Nav = () => {
   return (
     <nav>
       <h1>Nav Component</h1>
-      <h1>TEST</h1>
 
       <div className={Styles.logo}>
         <h3>
